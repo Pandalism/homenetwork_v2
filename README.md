@@ -17,4 +17,4 @@ Folder structure:
   - TV
   - Downloads
   
-  
+### Transmission, OpenVPN, Sonarr, Radarr, Bazarr and Jackett download stack
